@@ -14,3 +14,6 @@ MATLAB机器人仿真+ PID控制（的Simscape + SIMULINK）的.zip	:av53566638
 
 sixuamnyi.slx	:av54969380
 四旋翼无人机的控制
+
+jixiebinew.slx:av55896168
+simscape2G
