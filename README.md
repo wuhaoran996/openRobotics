@@ -19,3 +19,5 @@ jixiebinew.slx:av55896168
 simscape2G
 
 music.zip:matlab音乐 only my railgun
+
+SPK  -  SERVO.zip:matlab的GUI界面控制机械臂运动学正解和逆解
