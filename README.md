@@ -26,3 +26,5 @@ SPK  -  SERVO.zip:matlab的GUI界面控制机械臂运动学正解和逆解
 
 Simulink Model:
 MATLAB对于电机简历模型并加入PID控制
+
+Trajectory planning.zip机器人基于关节空间和位姿空间的轨迹规划问题
