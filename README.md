@@ -35,3 +35,5 @@ Trajectory planning.zip机器人基于关节空间和位姿空间的轨迹规划
 7DOF-Trajectory planning.zip 7dof机器人轨迹规划——robotics system toolbox
 
 3dof-inverse.zip	3DOF机器人运动学逆解，平面上写字仿真。
+
+PRM_pathplanning.m 基于PRM算法的移动机器人路径规划问题
