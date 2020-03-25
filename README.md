@@ -27,6 +27,8 @@ music.zip:matlab音乐 only my railgun
 
 SPK  -  SERVO.zip:matlab的GUI界面控制机械臂运动学正解和逆解
 
+
+
 Simulink Model:
 MATLAB对于电机简历模型并加入PID控制
 
@@ -41,3 +43,5 @@ PRM_pathplanning.m 基于PRM算法的移动机器人路径规划问题
 Plan and Execute Collision-Free Trajectories.zip 7DOF机器人蔽障+轨迹规划
 
 drawingrobot.m 精湛细腻的工笔画
+
+dc_motor.slx 直流电机PWM级联速度调节，具体参数请见
